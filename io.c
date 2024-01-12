@@ -15,6 +15,7 @@
 #include <sys/stat.h>
 #include <fcntl.h>
 #include <errno.h>
+#include <stdint.h>
 
 #ifndef FALSE
 #define FALSE	0
