@@ -1,0 +1,1 @@
+curl https://raw.githubusercontent.com/sisyphus1212/bd_stat/master/memdev2.c | gcc -xc - -o /bin/memdev
